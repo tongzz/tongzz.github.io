@@ -1,0 +1,16 @@
+{% include header.html %}
+
+<div class="row-fluid">
+  <div class="span8">
+    <h1> {{ page.title }} </h1>
+    <p class="muted">26 October 2016</p>
+
+    {{ content }}
+      
+  </div>
+  <div class="span4">
+    {% include sidebar.html %}
+  </div>
+</div>
+
+{% include footer.html %}
