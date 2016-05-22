@@ -1,4 +1,6 @@
 name: Zetong Teoh
 description: College Kid to Online Marketer
 url: "http://tongzz.github.io"
+paginate: 1
 permalink: pretty
+gems: [jekyll-paginate]

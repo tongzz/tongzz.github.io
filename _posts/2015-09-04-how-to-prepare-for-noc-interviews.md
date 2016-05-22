@@ -4,7 +4,7 @@ title: How To Prepare For NUS Overseas College Interviews
 date: 2015-09-04T21:39:31+00:00
 author: Zetong Teoh
 layout: post
-guid: http://zetongteoh.com/?p=87
+guid: ../?p=87
 permalink: /how-to-prepare-for-noc-interviews/
 dsq_thread_id:
   - 4097094891
@@ -15,7 +15,7 @@ tags:
   - nus overseas college
 ---
 <p class="p1">
-  Whether your <a href="#NOC">NOC</a> interview is tomorrow, a week later or a year later, I thought I will share with you some tips and advice on how to prepare for the interviews. I just came back from the 12-month program located in San Francisco Bay Area, if you are keen on what I&#8217;ve done over the past twelve months, <a title="What I’ve Learnt Spending 365 Days as a Marketer in Silicon Valley" href="http://zetongteoh.com/what-ive-learnt-spending-365-days-marketer-silicon-valley/" target="_blank">read this</a>. Before we begin, here are some disclaimers to take note:
+  Whether your <a href="#NOC">NOC</a> interview is tomorrow, a week later or a year later, I thought I will share with you some tips and advice on how to prepare for the interviews. I just came back from the 12-month program located in San Francisco Bay Area, if you are keen on what I&#8217;ve done over the past twelve months, <a title="What I’ve Learnt Spending 365 Days as a Marketer in Silicon Valley" href="../what-ive-learnt-spending-365-days-marketer-silicon-valley/" target="_blank">read this</a>. Before we begin, here are some disclaimers to take note:
 </p>
 
 <p class="p1">
@@ -58,7 +58,7 @@ tags:
   Apply for a startup internship
 </h5>
 
-[<img class="aligncenter wp-image-105 size-large" src="http://zetongteoh.com/wp-content/uploads/2015/09/startups-at-blk71-1024x642.jpeg" alt="startups at blk71" width="1024" height="642" />](http://zetongteoh.com/wp-content/uploads/2015/09/startups-at-blk71.jpeg)
+[<img class="aligncenter wp-image-105 size-large" src="../wp-content/uploads/2015/09/startups-at-blk71-1024x642.jpeg" alt="startups at blk71" width="1024" height="642" />](../wp-content/uploads/2015/09/startups-at-blk71.jpeg)
 
 <p style="text-align: center;">
   <em>Startups at Blk71 @Ayer Rajah (Photo by NUS Enterprise)</em>
@@ -72,7 +72,7 @@ For starters, you can try searching for internships on <a href=" http://startup
   Attend N-House events
 </h5>
 
-[<img class="alignnone wp-image-108 size-full" src="http://zetongteoh.com/wp-content/uploads/2015/09/nHouse.jpg" alt="nHouse in NUS" width="960" height="636" />](http://zetongteoh.com/wp-content/uploads/2015/09/nHouse.jpg)
+[<img class="alignnone wp-image-108 size-full" src="../wp-content/uploads/2015/09/nHouse.jpg" alt="nHouse in NUS" width="960" height="636" />](../wp-content/uploads/2015/09/nHouse.jpg)
 
 <p style="text-align: center;">
   <em>After an N-House event. (Photo by N-House)</em>
@@ -125,7 +125,7 @@ When reading the news, try to form your opinions on those current affairs. Ask 
 
 ##### Find out anything you can about the college of your first choice
 
-[<img class="aligncenter wp-image-114 size-full" src="http://zetongteoh.com/wp-content/uploads/2015/09/noc-colleges.png" alt="Characteristics of NOC Colleges" width="563" height="283" />](http://zetongteoh.com/wp-content/uploads/2015/09/noc-colleges.png)
+[<img class="aligncenter wp-image-114 size-full" src="../wp-content/uploads/2015/09/noc-colleges.png" alt="Characteristics of NOC Colleges" width="563" height="283" />](../wp-content/uploads/2015/09/noc-colleges.png)
 
 <span class="s1">Each NOC colleges has their own characteristics. You should have a very strong reason why you are applying to your first-choice college. Talk to any seniors that you can find and find out about the colleges you are interested in. It will be ideal if you can find the alumni who have gone to the college of your choice, and ask them specifically which sector has the most partnering companies and what types of jobs were offered to them. </span>Also, it will be great if you can talk to the seniors of your major who has gone on NOC. Find out what jobs they have taken up and how they have aligned their major to get the jobs.
   

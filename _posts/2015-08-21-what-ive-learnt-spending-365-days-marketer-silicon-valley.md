@@ -4,7 +4,7 @@ title: 'What I&#8217;ve Learnt Spending 365 Days as a Marketer in Silicon Valley
 date: 2015-08-21T11:20:38+00:00
 author: Zetong Teoh
 layout: post
-guid: http://zetongteoh.com/?p=21
+guid: ../?p=21
 permalink: /what-ive-learnt-spending-365-days-marketer-silicon-valley/
 dsq_thread_id:
   - 4050830079
@@ -35,7 +35,7 @@ Everyone wants to be nice, and thus, it feels hard not to reply to a personal em
 The better ones are those with follow-up emails that goes by the rules if you have responded to the first emails. It creates a strong image that the person is engaging to you one-to-one.
 
 <address style="text-align: center;">
-  <a href="http://zetongteoh.com/wp-content/uploads/2015/08/personal_email1.png"><img class="alignnone wp-image-66 size-full" src="http://zetongteoh.com/wp-content/uploads/2015/08/personal_email1.png" alt="personalized email" width="839" height="560" /></a>Personalized email from branch.io 
+  <a href="../wp-content/uploads/2015/08/personal_email1.png"><img class="alignnone wp-image-66 size-full" src="../wp-content/uploads/2015/08/personal_email1.png" alt="personalized email" width="839" height="560" /></a>Personalized email from branch.io 
 </address>
 
 &nbsp;
@@ -54,7 +54,7 @@ This is the part which crosses to web development skills, so you not only need t
 
 **Make Use of Free Resources Online**
 
-I&#8217;ve created a few landing pages on my own. I feel that because marketers have to do so many different things to execute their marketing campaigns, they have to be relentlessly resourceful to find useful online tools. There are many free tools online such as [Strikingly](http://strikingly.com) and [Launchrock](https://www.launchrock.com/), which can easily help one create a landing page in minutes. Email collection can be first started using [MailChimp](http://mailchimp.com) or [SendGrid](http://sendgrid.com).[<img class="alignnone wp-image-41 size-large" src="http://zetongteoh.com/wp-content/uploads/2015/08/kissmetric-landing-page-981x1024.png" alt="kissmetric landing page" width="981" height="1024" />](http://zetongteoh.com/wp-content/uploads/2015/08/kissmetric-landing-page.png)
+I&#8217;ve created a few landing pages on my own. I feel that because marketers have to do so many different things to execute their marketing campaigns, they have to be relentlessly resourceful to find useful online tools. There are many free tools online such as [Strikingly](http://strikingly.com) and [Launchrock](https://www.launchrock.com/), which can easily help one create a landing page in minutes. Email collection can be first started using [MailChimp](http://mailchimp.com) or [SendGrid](http://sendgrid.com).[<img class="alignnone wp-image-41 size-large" src="../wp-content/uploads/2015/08/kissmetric-landing-page-981x1024.png" alt="kissmetric landing page" width="981" height="1024" />](../wp-content/uploads/2015/08/kissmetric-landing-page.png)
 
 <address style="text-align: center;">
   A landing page for Kissmetrics webinar
@@ -76,7 +76,7 @@ However, I wanted more signups. So, I added a top bar on the Homepage of the pro
 
 I&#8217;m quite a visual guy, or do I not look like one? So in marketing, besides handling communications and getting more people to sign up for your stuff, we also create the collaterals to be used in the marketing campaign.
 
-[<img class="alignnone size-large wp-image-53" src="http://zetongteoh.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-13-at-5.29.36-PM-1024x531.png" alt="Joyful Literacy App" width="1024" height="531" />](http://zetongteoh.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-13-at-5.29.36-PM.png)
+[<img class="alignnone size-large wp-image-53" src="../wp-content/uploads/2015/08/Screen-Shot-2015-08-13-at-5.29.36-PM-1024x531.png" alt="Joyful Literacy App" width="1024" height="531" />](../wp-content/uploads/2015/08/Screen-Shot-2015-08-13-at-5.29.36-PM.png)
 
 <address style="text-align: center;">
   I&#8217;ve designed the logo and screenshots with PowerPoint
