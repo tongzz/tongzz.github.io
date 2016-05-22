@@ -4,6 +4,18 @@
 
 body {
   padding-top:80px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 21px;
+  line-height: 1.58;
+  color: rgba(0,0,0,.8);
+}
+
+.post { 
+  max-width: 860px;
+}
+
+.post img {
+  width: 100%;
 }
 
 footer {
