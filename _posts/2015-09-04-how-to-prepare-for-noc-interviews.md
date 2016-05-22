@@ -48,7 +48,7 @@ tags:
 
 <span id="1year"> </span>
 
-#### <span class="s1">If your interview is 1 year or more away..</span> {.p1}
+#### <span class="s1">If your interview is 1 year or more away..</span> 
 
 <p class="p1">
   I&#8217;m so glad that you are preparing for NOC this early; the interviewers love people who are well-prepared and fully understand what they are signing themselves for. You have plenty of time to get yourself ready for the program, here are some the things you could do:
@@ -100,7 +100,7 @@ Most importantly, you must know the difference between startups and small busine
 
 <span id="1week"> </span>
 
-#### <span class="s1">If your interview is 1 week away..</span> {.p1}
+#### <span class="s1">If your interview is 1 week away..</span> 
 
 <p class="p1">
   It will be by now too late to apply for an internship to make a meaningful impact on you during the interviews, I would encourage you to keep yourself updated on the latest tech news and attempt to form opinions on the issues.
@@ -131,7 +131,7 @@ When reading the news, try to form your opinions on those current affairs. Ask 
   
 <span id="1day"> </span>
 
-#### <span class="s1">If your interview is 1 day away..</span> {.p1}
+#### <span class="s1">If your interview is 1 day away..</span> 
 
 <p class="p1">
   There really isn&#8217;t much you can do to improve on your hard skills with one day left, so my only advice to prepare you for tomorrow&#8217;s interview would be:
